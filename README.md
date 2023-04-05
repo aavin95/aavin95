@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aavin95
-- 👀 I’m interested in working on projects to make financial technologies open avaliable to everyone at a price point of free.
-- 🌱 I’m currently learning object orient programming
-- 💞️ I’m looking to collaborate on any project that's remotley interesting
+- 👀 I’m interested in working on hard problems that involve ML and distributed systems
+- 🌱 I’m currently learning Firebase and Next.js
+- 💞️ I’m looking to collaborate on projects that will make an impact
 - 📫 How to reach me aavin@umich.edu
 
 <!---
