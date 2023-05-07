@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aavin95
 - 👀 I’m interested in working on hard problems that involve ML and distributed systems
-- 🌱 I’m currently learning Firebase and Next.js
+- 🌱 I’m currently learning how to build nureal networks in C++
 - 💞️ I’m looking to collaborate on projects that will make an impact
 - 📫 How to reach me aavin@umich.edu
 
