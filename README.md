@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @aavin95
-- 👀 I’m interested in working on hard problems that involve ML and distributed systems
-- 🌱 I’m currently learning how to build nureal networks in C++
+- 👋 Hi, I’m Andrew!
+- 👀 I’m interested in working on full-stack web development projects
 - 💞️ I’m looking to collaborate on projects that will make an impact
 - 📫 How to reach me aavin@umich.edu
 
