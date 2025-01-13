@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Andrew!
-- 👀 I’m interested in working on full-stack web development projects
-- 💞️ I’m looking to collaborate on projects that will make an impact
+### Hi, I’m Andrew Vincent!
+- 🖥️ I've been building production-level full-stack web apps in Typescript with Next.js and Node.js for a year
 - 📫 How to reach me aavin@umich.edu
 
 <!---
